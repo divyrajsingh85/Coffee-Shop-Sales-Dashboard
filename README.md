@@ -21,6 +21,8 @@ This project showcases an interactive **Power BI dashboard** designed to analyze
 - Discovered peak sales periods (weekends and mornings) to optimize staffing and marketing campaigns  
 - Enhanced reporting efficiency with automated KPI tracking  
 
+<img width="1106" height="663" alt="Screenshot 2025-09-02 221046" src="https://github.com/user-attachments/assets/3eccd920-e485-4a23-af36-0030b588f6b3" />
+
 ## Files in Repository
 - `Coffee Shop Sales DB.pbix` – Power BI dashboard file  
 - `/images/` – Screenshots of the dashboard  
@@ -34,7 +36,7 @@ This project showcases an interactive **Power BI dashboard** designed to analyze
 ## Certifications Related
 - [Microsoft Business Analytics Certificate](https://www.linkedin.com/learning/certificates/9e897101e61c3ab69296858dc32053131240c7b6ced079518106b143bdeab630)  
 - [Career Essentials in Business Analysis by Microsoft & LinkedIn](https://www.linkedin.com/learning/certificates/e4244e5d1d3bbb825d0651ead38cbbf3f81d63be7484e802478f0d0cd167c803)  
-<img width="1106" height="663" alt="Screenshot 2025-09-02 221046" src="https://github.com/user-attachments/assets/3eccd920-e485-4a23-af36-0030b588f6b3" />
+
 
 ## Author
 **Divyaraj Singh**  
